@@ -5,10 +5,17 @@
   margin: 0;
   box-sizing: border-box;
   font-family: Outfit;
+  scroll-behavior: smooth;
+}
+
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+  position: relative;
 }
 
 body{
-  min-width: 100vh;
+  min-height: 100vh;
 }
 
 a{
@@ -19,4 +26,22 @@ a{
 .app{
   width: 80%;
   margin: auto;
+  max-width: 1400px;
+  overflow-x: hidden;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .app {
+    width: 95%;
+  }
+}
+
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
