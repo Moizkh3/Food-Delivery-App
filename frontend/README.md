@@ -36,7 +36,7 @@ A modern and responsive food delivery web application built with React and Vite.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/food-delivery.git
+git clone https://github.com/Moizkh3/food-delivery.git
 ```
 
 2. Navigate to the project directory
