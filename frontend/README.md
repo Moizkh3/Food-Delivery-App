@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [Moizkh3](https://github.com/Moizkh3)
+- Moiz Khatri- Initial work - [Moizkh3](https://github.com/Moizkh3)
 
 ## 🙏 Acknowledgments
 
